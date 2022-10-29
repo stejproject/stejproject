@@ -3,7 +3,7 @@
 
 - The favourite website https://stejproject.github.io/ and develope it
 
-- I'm creating and develope many website.
+- The Main License has writted in https://stejproject.github.io/
 
 <!---
 stejproject/stejproject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
